@@ -1,5 +1,10 @@
-# Ejemplo de CRUD realizando en Angular utilizando la API reqres.in
+# reqres-angular
 
+Ejemplo de CRUD realizando en Angular utilizando la API reqres.in
+
+> **UPDATE 07/01/2020:**: Repositorio actualizado.
+
+Imagen Principal Artículo <p align="center"><img src="v1.0/captura.jpg"></p>
 
 ## Instalacion de dependencias
 1. Ejecutar comando `npm install`.
